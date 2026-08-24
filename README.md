@@ -1,10 +1,7 @@
 # Integrantes
 - Lucas Giovani Steves - 52420131
-- Kaique Rebonato - 52522487
 - Caio Elias Vieira - 52421171
-- Nicolas Vinicius dos Santos Pereira - 52217939
 - Gabriel Lorente Ferreira - 52421216
-- Eduardo Bravo Pires de Souza - 52421070
 
 # Soma dos Quadrados nos Três Paradigmas
 
